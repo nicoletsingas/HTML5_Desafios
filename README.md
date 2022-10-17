@@ -15,6 +15,7 @@
 - Como inserir significado de um texto abreviado com a tag abbr
 - Mini Projeto sobre a história do Android
 - Imagems como Background
+- Mini projeto Cordel com efeito Parallax em CSS3
 - Tabelas em HTML
 
 ## ✨Contato
