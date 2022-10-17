@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif, Courier, monospace;
+    padding: 10px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 400px;
+}
+
+td, th{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.gray{
+    background-color: gray;
+    color: white;
+}
+
+.left{
+    text-align: left;
+}
+
+.media{
+    background-color: gray;
+    color: white;
+}
+
+.pequena{
+    font-size: .9em;
+}
