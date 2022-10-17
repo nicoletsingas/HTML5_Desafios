@@ -13,6 +13,9 @@
 - Como fazer uma imagem flexível de acordo com o tamanho da tela
 - Criando uma página com suas redes sociais
 - Como inserir significado de um texto abreviado com a tag abbr
+- Mini Projeto sobre a história do Android
+- Imagems como Background
+- Tabelas em HTML
 
 ## ✨Contato
 nick_monalisa@outlook.com
